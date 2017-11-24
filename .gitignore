@@ -1,0 +1,5 @@
+*.csproj
+*.sln
+*.suo
+Unity/Library/
+Unity/Temp/
